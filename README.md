@@ -2,87 +2,17 @@
 ![](./static/banner.gif)
 
 
-<!-- <a href="https://git.io/typing-svg" align="center" style="border: 3px solid green; justify-content:center; display: flex; margin-left: auto; margin-right: auto;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&width=350&lines=Computer+Engineer;Full+Stack+Software+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" /></a> -->
+<h1 align="center">Hi! I'm Priyaank 👋</h1>
+<a href="https://git.io/typing-svg" align="center" style="justify-content:center; display: flex; margin-left: auto; margin-right: auto;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&width=350&lines=Computer+Engineer;Full+Stack+Software+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
 
 
-<script>
-    
-  var TxtType = function(el, toRotate, period) {
-    this.toRotate = toRotate;
-    this.el = el;
-    this.loopNum = 0;
-    this.period = parseInt(period, 10) || 2000;
-    this.txt = '';
-    this.tick();
-    this.isDeleting = false;
-  };
-
-  TxtType.prototype.tick = function() {
-    var i = this.loopNum % this.toRotate.length;
-    var fullTxt = this.toRotate[i];
-
-    if (this.isDeleting) {
-      this.txt = fullTxt.substring(0, this.txt.length - 1);
-    } else {
-      this.txt = fullTxt.substring(0, this.txt.length + 1);
-    }
-
-    this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
-
-    var that = this;
-    var delta = 200 - Math.random() * 100;
-
-    if (this.isDeleting) { delta /= 2; }
-
-    if (!this.isDeleting && this.txt === fullTxt) {
-      delta = this.period;
-      this.isDeleting = true;
-    } else if (this.isDeleting && this.txt === '') {
-      this.isDeleting = false;
-      this.loopNum++;
-      delta = 500;
-    }
-
-    setTimeout(function() {
-        that.tick();
-      }, delta);
-  };
-
-    window.onload = function() {
-      var elements = document.getElementsByClassName('typewrite');
-      for (var i=0; i<elements.length; i++) {
-        var toRotate = elements[i].getAttribute('data-type');
-        var period = elements[i].getAttribute('data-period');
-        if (toRotate) {
-          new TxtType(elements[i], JSON.parse(toRotate), period);
-        }
-      }
-      // INJECT CSS
-      var css = document.createElement("style");
-      css.type = "text/css";
-      css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
-      document.body.appendChild(css);
-  };
-    
-</script>
-<style>
-img {
-    display: flex;
-    /* padding: 1rem */
-}
-a {
-    display: flex;
-}
-</style>
-
-<div align="center">
-    <h1>Hi! I'm Priyaank 👋</h1>
+<!-- <div align="center">
     <h2>
         <p href="" class="typewrite" data-period="1000" data-type='["I&apos;m a Full Stack Developer", "I&apos;m Always Learning", "I Love to write code",  "I&apos;m Creative"]'>
             <span class="wrap"></span>
         </p>
     </h2>
-</div>
+</div> -->
 
 
 - 🔭 I’m currently working on **a way to automate job applications**
