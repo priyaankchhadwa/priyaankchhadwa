@@ -19,18 +19,13 @@
 </div> -->
 
 
-- 🔭 I’m currently working on **a way to automate job applications**
-
-- 💬 Ask me about **`Python`** and **`TypeScript`**
+- 🔭 I’m currently working on **building a bunch of interesting things and chasing curious ideas. If you're working on something fun, weird, or fascinating, let's collaborate!**
 
 - 📫 How to reach me <span style="display: inline-block;">**priyaank29@gmail.com**</span>
 
 <h2>Connect with me:</h2>
 <a href="https://linkedin.com/in/priyaankchhadwa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyaankchhadwa" height="30" width="40" />
-</a>
-<a href="https://instagram.com/priyaankchhadwa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyaankchhadwa" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/priyaank29" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyaank29" height="30" width="40" />
