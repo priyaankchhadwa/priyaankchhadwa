@@ -168,10 +168,3 @@
     <img src="./static/arduino/arduino-original-wordmark.svg" alt="arduino" width="80"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<br />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyaankchhadwa&show_icons=true&theme=one_dark_pro&locale=en&layout=compact&hide_border=true" alt="priyaankchhadwa" />
-<br />
-<br />
-<img style="display: flex" src="https://github-readme-stats.vercel.app/api?username=priyaankchhadwa&show_icons=true&theme=one_dark_pro&locale=en&hide_border=true" alt="priyaankchhadwa" />
